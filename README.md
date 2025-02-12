@@ -9,7 +9,7 @@ Bu projeyi ReactJS, Redux, Axios, Bootstrap ve SweetAlert2 kullanarak oluşturdu
 
 - Bootstrap: UI tasarımı
 
--SweetAlert2: Bildirimler ve onay pencereleri
+- SweetAlert2: Bildirimler ve onay pencereleri
 ## Başlangıç
 ```
 git clone https://github.com/eypbatihan/alterntativkraft_aufgabe.git
