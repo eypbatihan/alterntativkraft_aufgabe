@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alterntativkraft_aufgabe/static/css/main.cf8cb218.css",
+    "main.js": "/alterntativkraft_aufgabe/static/js/main.ebcb32d1.js",
+    "index.html": "/alterntativkraft_aufgabe/index.html",
+    "main.cf8cb218.css.map": "/alterntativkraft_aufgabe/static/css/main.cf8cb218.css.map",
+    "main.ebcb32d1.js.map": "/alterntativkraft_aufgabe/static/js/main.ebcb32d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cb218.css",
+    "static/js/main.ebcb32d1.js"
+  ]
+}
