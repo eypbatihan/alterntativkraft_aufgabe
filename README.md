@@ -20,3 +20,13 @@ npm install
 
 npm start
 ```
+## Test 
+
+Bu projede Cypress kullanılarak uçtan uca (E2E) testler yazılmıştır.
+
+Testi çalıştırmak için terminalde aşağıdaki kodu çalıştırabilirsiniz.
+
+```
+npx cypress open
+
+```
