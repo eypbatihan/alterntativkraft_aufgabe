@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout Repository
-        uses: actions/checkout@v4
-
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         
@@ -25,7 +22,6 @@ jobs:
         run: npm run start &  # Uygulamayı arka planda başlatır
 
       - name: 🧪 Run Cypress Tests
-        uses: cypress-io/github-action@v6
         with:
           start: npx cypress run
           browser: chrome
